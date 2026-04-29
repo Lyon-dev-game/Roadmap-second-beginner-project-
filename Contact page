@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+       <nav>myname
+        <a href="Home.html">Home</a>/
+        <a href="Project.html">Project</a>/
+        <a href="Article.html">Article</a>/
+        <a href="Contact.html">Contact</a>
+    </nav>
+    <p>Contact me</p>
+    <a href="tel:+237 691042627">my number</a><br>
+    <a href="mailto:kembietp@gmail.com">my email</a>
+</body>
+</html>
